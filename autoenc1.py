@@ -1,7 +1,6 @@
 from keras.layers import Input, Dense
 from keras.models import Model
 import numpy as np
-import matplotlib.image as mpimg
 import os
 import tensorflow.compat.v1 as tf
 import math
